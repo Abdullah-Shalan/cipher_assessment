@@ -1,0 +1,12 @@
+google.com
+microsoft.com
+apple.com
+github.com
+amazon.com
+nytimes.com
+bbc.co.uk
+cnn.com
+wikipedia.org
+stackoverflow.com
+linkedin.com
+reddit.com

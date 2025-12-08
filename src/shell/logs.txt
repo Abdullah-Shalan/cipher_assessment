@@ -1,0 +1,39 @@
+220.241.199.20 05/Nov/2017:07:00:22 HEAD http://193.5.110.13:80/mysql/admin/ HTTP/1.1 404 195
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:22 HEAD http://193.5.110.13:80/dbadmin/ HTTP/1.1 404 194
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:23 HEAD http://193.5.110.13:80/mysql/sqlmanager/ HTTP/1.1 404 194
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:23 HEAD http://193.5.110.13:80/mysql/mysqlmanager/ HTTP/1.1 404 194
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:23 HEAD http://193.5.110.13:80/phpmyadmin/ HTTP/1.0 200 200
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:24 GET /phpmyadmin/index.php?lang=en-utf-8&token=aa07401a40... HTTP/1.1 302 1118
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:24 GET /phpmyadmin/index.php?username=popa3d&password=popa3d HTTP/1.1 302 1116
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:24 GET /phpmyadmin/index.php?username=popa3d&password=xxxxx HTTP/1.1 302 1118
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:25 GET /phpmyadmin/index.php?lang=en-utf-8&token=660181cc911... HTTP/1.1 400 0
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:26 GET /phpmyadmin/index.php?username=root&password=root HTTP/1.1 302 1118
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:27 GET /phpmyadmin/index.php?username=root&password=123 HTTP/1.1 302 1116
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:29 GET /phpmyadmin/index.php?username=root&password=123456 HTTP/1.1 302 1120
+Mozilla/5.0
+Jorgee
+220.241.199.20 05/Nov/2017:07:00:30 GET /phpmyadmin/index.php?username=root&password=12345678 HTTP/1.1 302 1120
+Mozilla/5.0
+Jorgee

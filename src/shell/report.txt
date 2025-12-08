@@ -1,0 +1,38 @@
+= Summary Report =
+- Total log entries processed : 300
+- Unique domains found : 31
+= Suspicious Domains =
+badstuff.ru
+evilserver.org
+fakebanklogin.io
+hackmepls.cn
+malicious.net
+phishingsite.co
+randomdomain19.com
+randomdomain23.com
+randomdomain30.com
+randomdomain34.com
+randomdomain37.com
+randomdomain44.com
+randomdomain55.com
+randomdomain57.com
+randomdomain74.com
+randomdomain79.com
+randomdomain98.com
+randomdomain99.com
+stealyourdata.xyz
+- Suspicious domains count : 19
+= Benign Domains =
+amazon.com
+apple.com
+bbc.co.uk
+cnn.com
+github.com
+google.com
+linkedin.com
+microsoft.com
+nytimes.com
+reddit.com
+stackoverflow.com
+wikipedia.org
+- Benign domains identified count : 12
