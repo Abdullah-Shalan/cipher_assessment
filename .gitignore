@@ -2,3 +2,4 @@
 .env
 full_response.json
 .vscode/
+__pycache__/
