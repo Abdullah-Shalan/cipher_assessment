@@ -185,4 +185,4 @@ Unit42 lists a HyperBro C2 endpoint: `hxxps://185[.]12[.]45[.]134:443/ajax` and 
 ```
 
 ### Part 2: Enrichment Script
-The script code, results, and logs can be found [here]().
+The script code, results, and logs can be found [here](https://github.com/Abdullah-Shalan/cipher_assessment/tree/main/src/python).
