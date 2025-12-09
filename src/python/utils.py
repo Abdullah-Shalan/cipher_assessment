@@ -19,16 +19,12 @@ def read_hashes(path: str) -> list:
                 hashes.append(line)
     return hashes
 
-def save_result(result: dict, path: str) -> bool:
-    try:
-        with open(path, 'w') as f:
-            json.dump(result, f, indent=4)
-        return True
-    except Exception as e:
-        print(e)
-        return False
+def save_results(result: list, path: str) -> None:
+    with open(path, 'w') as f:
+        json.dump(result, f, indent=4)    
 
-def display(list):
-    print(len(list))
-    for item in enumerate(list):
-        print(item)
+def append_result(result: dict, path: str) -> None:
+    with open(path, 'r') as f:
+        data = json.load(f)
+    data.append(result)
+    save_results(data, path)

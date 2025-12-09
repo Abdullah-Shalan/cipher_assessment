@@ -1,86 +1,386 @@
 [
     {
-        "new": "value"
+        "hash": "006569f0a7e501e58fe15a4323eedc08f9865239131b28dc5f95f750b4767b38",
+        "hash_type": "SHA256",
+        "meaningful_name": "shell.txt",
+        "type_tag": "html",
+        "sha256": "006569f0a7e501e58fe15a4323eedc08f9865239131b28dc5f95f750b4767b38",
+        "sha1": "afb9838fae1f791d5eb264c2e2afa7fabebad51b",
+        "md5": "25517b158b729b7641e57241caa59ece",
+        "type_description": "HTML",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1570617217,
+        "av_stats": {
+            "malicious": 38,
+            "suspicious": 0,
+            "undetected": 24
+        }
     },
     {
-        "new": "value"
+        "hash": "2feae7574a2cc4dea2bff4eceb92e3a77cf682c0a1e78ee70be931a251794b86",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "d1ab0dff44508bac9005e95299704a887b0ffc42734a34b30ebf6d3916053dbe",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "6b3f835acbd954af168184f57c9d8e6798898e9ee650bd543ea6f2e9d5cf6378",
+        "hash_type": "SHA256",
+        "meaningful_name": "6b3f835acbd954af168184f57c9d8e6798898e9ee650bd543ea6f2e9d5cf6378_unpacked",
+        "type_tag": "text",
+        "sha256": "6b3f835acbd954af168184f57c9d8e6798898e9ee650bd543ea6f2e9d5cf6378",
+        "sha1": "011daf57305d317b09907693be90b518659b76e3",
+        "md5": "95c60e0c0efe260ab1317ef500fda5af",
+        "type_description": "Text",
+        "total_votes": {
+            "malicious": 2,
+            "harmless": 0
+        },
+        "first_seen": 1556790047,
+        "av_stats": {
+            "malicious": 38,
+            "suspicious": 0,
+            "undetected": 24
+        }
     },
     {
-        "new": "value"
+        "hash": "88027a44dc82a97e21f04121eea2e86b4ddf1bd7bbaa4ad009b97b50307570bd",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "738128b4f42c8d2335d68383d72734130c0c4184725c06851498a4cf0374a841",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "3bca0bb708c5dad1c683c6ead857a5ebfa15928a59211432459a3efa6a1afc59",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "29897f2ae25017455f904595872f2430b5f7fedd00ff1a46f1ea77e50940128e",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "d0df8e1dcf30785a964ecdda9bd86374d35960e1817b25a6b0963da38e0b1333",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "a18326f929229da53d4cc340bde830f75e810122c58b523460c8d6ba62ede0e5",
+        "hash_type": "SHA256",
+        "meaningful_name": "91zby4969.exe",
+        "type_tag": "peexe",
+        "sha256": "a18326f929229da53d4cc340bde830f75e810122c58b523460c8d6ba62ede0e5",
+        "sha1": "94cb15c55d74561fd1d4b9e5dd6065c2c5f499c6",
+        "md5": "5bcf71601eac1549e9ee60c06f4f55ed",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 3,
+            "harmless": 0
+        },
+        "first_seen": 1547215782,
+        "av_stats": {
+            "malicious": 55,
+            "suspicious": 0,
+            "undetected": 16
+        }
     },
     {
-        "new": "value"
+        "hash": "090cefebef655be7f879f2f14bd849ac20c4051d0c13e55410a49789738fad98",
+        "hash_type": "SHA256",
+        "meaningful_name": "jvs810l0n.exe",
+        "type_tag": "peexe",
+        "sha256": "090cefebef655be7f879f2f14bd849ac20c4051d0c13e55410a49789738fad98",
+        "sha1": "ec2d2a55a3eb404662bbf1e3b89e6be7aa265237",
+        "md5": "3eeb4a7c692597df54e446c3dc110403",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1546568843,
+        "av_stats": {
+            "malicious": 43,
+            "suspicious": 0,
+            "undetected": 29
+        }
     },
     {
-        "new": "value"
+        "hash": "7eea6e15bb13a3b65cca9405829123761bf7d12c6dc3b81ce499d8f6a0b25fb7",
+        "hash_type": "SHA256",
+        "meaningful_name": "874a9v8d.exe",
+        "type_tag": "peexe",
+        "sha256": "7eea6e15bb13a3b65cca9405829123761bf7d12c6dc3b81ce499d8f6a0b25fb7",
+        "sha1": "b91c53710d9d394f1af0bcda0ced653c3accecfb",
+        "md5": "1dd30422a1cb52d87337debb4983d342",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1541039180,
+        "av_stats": {
+            "malicious": 42,
+            "suspicious": 0,
+            "undetected": 24
+        }
     },
     {
-        "new": "value"
+        "hash": "38fa396770e0ecf60fe1ce089422283e2dc8599489bd18d5eb033255dd8e370c",
+        "hash_type": "SHA256",
+        "meaningful_name": "jlxoubi7f.exe",
+        "type_tag": "peexe",
+        "sha256": "38fa396770e0ecf60fe1ce089422283e2dc8599489bd18d5eb033255dd8e370c",
+        "sha1": "8714afef5ea04cdd3b0c6ec32df5ad02b2295a90",
+        "md5": "ec645e21e93d215a5b7e0d86ae5b75b9",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1522831271,
+        "av_stats": {
+            "malicious": 55,
+            "suspicious": 0,
+            "undetected": 17
+        }
     },
     {
-        "new": "value"
+        "hash": "4a26ec5fd16ee13d869d6b0b6177e570444f6a007759ea94f1aa18fa831290a8",
+        "hash_type": "SHA256",
+        "meaningful_name": "ywujlm1p4.exe",
+        "type_tag": "peexe",
+        "sha256": "4a26ec5fd16ee13d869d6b0b6177e570444f6a007759ea94f1aa18fa831290a8",
+        "sha1": "3e7e38919df8124dbb2c288e53795f9db0200de0",
+        "md5": "9f8b60567642b9fd54af9ab644ce0ca0",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1516605186,
+        "av_stats": {
+            "malicious": 52,
+            "suspicious": 0,
+            "undetected": 20
+        }
     },
     {
-        "new": "value"
+        "hash": "b2b2e900aa2e96ff44610032063012aa0435a47a5b416c384bd6e4e58a048ac9",
+        "hash_type": "SHA256",
+        "meaningful_name": "jLnsXEF1AH7NHPxsaRI8Mhnaf5Nf9B",
+        "type_tag": "peexe",
+        "sha256": "b2b2e900aa2e96ff44610032063012aa0435a47a5b416c384bd6e4e58a048ac9",
+        "sha1": "5c0b49e4c2671805e78948aa30beb21aa45346d2",
+        "md5": "2820653437d5935d94fcb0c997d6f13c",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1473425107,
+        "av_stats": {
+            "malicious": 57,
+            "suspicious": 0,
+            "undetected": 14
+        }
     },
     {
-        "new": "value"
+        "hash": "475c7e88a6d73e619ec585a7c9e6e57d2efc8298b688ebc10a3c703322f1a4a7",
+        "hash_type": "SHA256",
+        "meaningful_name": "s.exe",
+        "type_tag": "peexe",
+        "sha256": "475c7e88a6d73e619ec585a7c9e6e57d2efc8298b688ebc10a3c703322f1a4a7",
+        "sha1": "ee3e15436ad71684fc0af1b76b0de353737956ba",
+        "md5": "2bcb003d74f93df762f94ed3c74dea6d",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1415009977,
+        "av_stats": {
+            "malicious": 52,
+            "suspicious": 0,
+            "undetected": 16
+        }
     },
     {
-        "new": "value"
+        "hash": "9f5f3a9ce156213445d08d1a9ea99356d2136924dc28a8ceca6d528f9dbd718b",
+        "hash_type": "SHA256",
+        "meaningful_name": "incognito.exe",
+        "type_tag": "peexe",
+        "sha256": "9f5f3a9ce156213445d08d1a9ea99356d2136924dc28a8ceca6d528f9dbd718b",
+        "sha1": "7361bf3f82b289c811e7c22b8115f277da4bd8e6",
+        "md5": "4489e8cb847cccf4d2d87ee3372e8235",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 4,
+            "harmless": 1
+        },
+        "first_seen": 1342718090,
+        "av_stats": {
+            "malicious": 54,
+            "suspicious": 0,
+            "undetected": 16
+        }
     },
     {
-        "new": "value"
+        "hash": "c9d5dc956841e000bfd8762e2f0b48b66c79b79500e894b4efa7fb9ba17e4e9e",
+        "hash_type": "SHA256",
+        "meaningful_name": "nbtscan.exe",
+        "type_tag": "peexe",
+        "sha256": "c9d5dc956841e000bfd8762e2f0b48b66c79b79500e894b4efa7fb9ba17e4e9e",
+        "sha1": "90da10004c8f6fafdaa2cf18922670a745564f45",
+        "md5": "f01a9a2d1e31332ed36c1a4d2839f412",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 10,
+            "harmless": 7
+        },
+        "first_seen": 1234477188,
+        "av_stats": {
+            "malicious": 40,
+            "suspicious": 0,
+            "undetected": 32
+        }
     },
     {
-        "new": "value"
+        "hash": "a6cad2d0f8dc05246846d2a9618fc93b7d97681331d5826f8353e7c3a3206e86",
+        "hash_type": "SHA256",
+        "meaningful_name": "fgdump.exe",
+        "type_tag": "peexe",
+        "sha256": "a6cad2d0f8dc05246846d2a9618fc93b7d97681331d5826f8353e7c3a3206e86",
+        "sha1": "ec932d26a059a188af6320b8ca76ce6e609f4878",
+        "md5": "0762764e298c369a2de8afaec5174ed9",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 8,
+            "harmless": 15
+        },
+        "first_seen": 1210319314,
+        "av_stats": {
+            "malicious": 58,
+            "suspicious": 0,
+            "undetected": 13
+        }
     },
     {
-        "new": "value"
+        "hash": "e781ce2d795c5dd6b0a5b849a414f5bd05bb99785f2ebf36edb70399205817ee",
+        "hash_type": "SHA256",
+        "meaningful_name": "smbexec.exe",
+        "type_tag": "peexe",
+        "sha256": "e781ce2d795c5dd6b0a5b849a414f5bd05bb99785f2ebf36edb70399205817ee",
+        "sha1": "1ef67d5a3fe42e561486a6b52bd3c0e143e89259",
+        "md5": "9dd9d006d40d7e43eedbd1db385844b8",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1540628778,
+        "av_stats": {
+            "malicious": 54,
+            "suspicious": 0,
+            "undetected": 18
+        }
     },
     {
-        "new": "value"
+        "hash": "d0df8e1dcf30785a964ecdda9bd86374d35960e1817b25a6b0963da38e0b1333",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "06510504f30feb1adc7e423d5a24e67e5b97acbfafe40f253a054be8b1c4e8d7",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "b279a41359367408c627ffa8d80051ed0f04c76fbf6aed79b3b2963203e08ade",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "7eea6e15bb13a3b65cca9405829123761bf7d12c6dc3b81ce499d8f6a0b25fb7",
+        "hash_type": "SHA256",
+        "meaningful_name": "874a9v8d.exe",
+        "type_tag": "peexe",
+        "sha256": "7eea6e15bb13a3b65cca9405829123761bf7d12c6dc3b81ce499d8f6a0b25fb7",
+        "sha1": "b91c53710d9d394f1af0bcda0ced653c3accecfb",
+        "md5": "1dd30422a1cb52d87337debb4983d342",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1541039180,
+        "av_stats": {
+            "malicious": 42,
+            "suspicious": 0,
+            "undetected": 24
+        }
     },
     {
-        "new": "value"
+        "hash": "04f48ed27a83a57a971e73072ac5c769709306f2714022770fb364fd575fd462",
+        "error": "API error 404"
     },
     {
-        "new": "value"
+        "hash": "090cefebef655be7f879f2f14bd849ac20c4051d0c13e55410a49789738fad98",
+        "hash_type": "SHA256",
+        "meaningful_name": "jvs810l0n.exe",
+        "type_tag": "peexe",
+        "sha256": "090cefebef655be7f879f2f14bd849ac20c4051d0c13e55410a49789738fad98",
+        "sha1": "ec2d2a55a3eb404662bbf1e3b89e6be7aa265237",
+        "md5": "3eeb4a7c692597df54e446c3dc110403",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1546568843,
+        "av_stats": {
+            "malicious": 43,
+            "suspicious": 0,
+            "undetected": 29
+        }
     },
     {
-        "new": "value"
+        "hash": "38fa396770e0ecf60fe1ce089422283e2dc8599489bd18d5eb033255dd8e370c",
+        "hash_type": "SHA256",
+        "meaningful_name": "jlxoubi7f.exe",
+        "type_tag": "peexe",
+        "sha256": "38fa396770e0ecf60fe1ce089422283e2dc8599489bd18d5eb033255dd8e370c",
+        "sha1": "8714afef5ea04cdd3b0c6ec32df5ad02b2295a90",
+        "md5": "ec645e21e93d215a5b7e0d86ae5b75b9",
+        "type_description": "Win32 EXE",
+        "total_votes": {
+            "malicious": 1,
+            "harmless": 0
+        },
+        "first_seen": 1522831271,
+        "av_stats": {
+            "malicious": 55,
+            "suspicious": 0,
+            "undetected": 17
+        }
     },
     {
-        "new": "value"
+        "hash": "2dde8881cd9b43633d69dfa60f23713d7375913845ac3fe9b4d8a618660c4528",
+        "hash_type": "SHA256",
+        "meaningful_name": "dewt0dm.exe",
+        "type_tag": "pedll",
+        "sha256": "2dde8881cd9b43633d69dfa60f23713d7375913845ac3fe9b4d8a618660c4528",
+        "sha1": "f189d63bae50fc7c6194395b2389f9c2a453312e",
+        "md5": "bc1305a6ca71d8bdb3961bfd4e2b3565",
+        "type_description": "Win32 DLL",
+        "total_votes": {
+            "malicious": 2,
+            "harmless": 0
+        },
+        "first_seen": 1557124517,
+        "av_stats": {
+            "malicious": 55,
+            "suspicious": 0,
+            "undetected": 17
+        }
     }
 ]

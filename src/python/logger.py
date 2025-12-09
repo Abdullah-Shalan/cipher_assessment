@@ -12,11 +12,15 @@ formatter = ColoredFormatter(
     },
 )
 
-handler = logging.StreamHandler()
-handler.setFormatter(formatter)
+main_handler = logging.StreamHandler()
+main_handler.setFormatter(formatter)
+
+file_handler = logging.FileHandler("script.log")
+file_handler.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
 
 logger = logging.getLogger(__name__)
-logger.addHandler(handler)
+logger.addHandler(main_handler)
+logger.addHandler(file_handler)
 logger.setLevel(logging.INFO)
 
 def get_logger():
